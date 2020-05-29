@@ -6,3 +6,29 @@
 body {
   background-color: yellowgreen;
 }
+
+nav {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 70px;
+}
+
+nav ul li {
+  margin: 10px;
+  list-style: none;
+  font-size: 20px;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}
+
+nav ul li:hover {
+  color: black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
