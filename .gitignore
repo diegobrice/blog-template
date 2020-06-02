@@ -2,7 +2,7 @@
 *.mp4
 
 # CARPETAS
-oculto
+oculto/
 
 # EXCEPCIONES
-!important.txt
+!oculto/important.txt
