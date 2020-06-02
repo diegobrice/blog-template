@@ -1,0 +1,8 @@
+# ARCHIVOS
+*.mp4
+
+# CARPETAS
+oculto
+
+# EXCEPCIONES
+!important.txt
